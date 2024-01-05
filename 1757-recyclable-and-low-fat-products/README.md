@@ -14,7 +14,7 @@ recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this produc
 <p>&nbsp;</p>
 
 <p>Write a solution to find the ids of products that are both low fat and recyclable.</p>
-<p>저지방이면서 재활용이 가능한 제품의 ID 찾기</p>
+<p>(저지방이면서 재활용이 가능한 제품의 ID 찾기)</p>
 
 <p>Return the result table in <strong>any order</strong>.</p>
 
